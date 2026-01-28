@@ -1,9 +1,9 @@
 # 💫 About Me:
 I currently work across social impact, government collaboration, and health-tech products, balancing both technical execution and product strategy.
 
-At Apurva, an AI-powered platform that helps NGOs achieve their goals through technology and data-driven insights, I work in a DevOps-focused role. I manage CI/CD pipelines (Jenkins), cloud deployments, authentication systems, databases, and overall infrastructure, while also contributing to application-level improvements when needed.
+At Apurva, an AI-powered platform that helps NGOs achieve their goals through technology and data-driven insights, I work in a DevOps-focused role. I manage CI/CD pipelines (Jenkins), cloud deployments, authentication systems, databases, and overall infrastructure, while also contributing to application-level improvements when needed. -- https://apurva.ai/
 
-In parallel, I serve as a Product Manager for Invest UP, a government collaboration initiative designed to help investors connect seamlessly with government stakeholders. In this role, I drive product planning and execution while working closely with the tech stack, including React, Node.js, Express, PostgreSQL, and MongoDB, ensuring technology decisions align with user and stakeholder needs.
+In parallel, I serve as a Product Manager for Invest UP, a government collaboration initiative designed to help investors connect seamlessly with government stakeholders. In this role, I drive product planning and execution while working closely with the tech stack, including React, Node.js, Express, PostgreSQL, and MongoDB, ensuring technology decisions align with user and stakeholder needs. -- https://invest.up.gov.in/
 
 Beyond my professional roles, I am also building a personal health-tech application called SAANVI, which stands for:
 
